@@ -1,17 +1,17 @@
 //Use an array to hold the value of the quotes
 const arrayOfQuotes = [
-    {'author': 'Nelson Mandela', 
-     'quote': 'It always seems impossible until it is done.',
-     'year': '1994'
+    {'author': 'Theodore Rosevelt', 
+     'quote': 'Believe you can and you are halfway there',
+     'year': '1900'
 
     },
-    {'author': 'Maya Angelou', 
-     'quote': 'You will face many defeats in life, but never let yourself be defeated.',
+    {'author': 'Wayne Gretzky', 
+     'quote': 'You miss 100% of the shots you dont take',
      'year': '1995'
     },
-    {'author': 'Walt Disney', 
-     'quote': 'All our dreams can come true if we have the courage to pursue them.',
-     'year': '1957'
+    {'author': 'Sam Levenson', 
+     'quote': 'Dont watch the clock; do what it does, Keep going',
+     'year': '1956'
     },
     {'author': 'Albert Einstein', 
      'quote': 'Strive not to be a success, but rather to be of value.',
@@ -33,9 +33,9 @@ const arrayOfQuotes = [
      'quote': 'You don’t have to be great to start, but you have to start to be great.',
      'year': '1975'
     },
-    {'author': 'Tony Robins', 
-     'quote': 'The only limit to your impact is your imagination and commitment.',
-     'year': '1991'
+    {'author': 'Nelson Mandela', 
+     'quote': 'It always seems impossible until it is done',
+     'year': '2001'
     },
 ];
 
