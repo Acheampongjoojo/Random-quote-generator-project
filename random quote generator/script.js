@@ -21,9 +21,9 @@ const arrayOfQuotes = [
      'quote': 'Your time is limited, so do not waste it living someone else’s life.',
      'year': '2005'
     },
-    {'author': 'Walt Disney', 
-     'quote': 'All our dreams can come true if we have the the courage to pursue them',
-     'year': '1957'
+    {'author': 'Thomas Edison', 
+     'quote': 'I have not failed. I have just found 10.000 ways that wont work',
+     'year': '1920'
     },
     {'author': 'Eleanor Roosevelt', 
      'quote': 'The future belongs to those who believe in the beauty of their dreams.',
@@ -33,9 +33,9 @@ const arrayOfQuotes = [
      'quote': 'You don’t have to be great to start, but you have to start to be great.',
      'year': '1975'
     },
-    {'author': 'Maya Angelou', 
-     'quote': 'You will face many defeats in life but never let yourself be defeated',
-     'year': '1995'
+    {'author': 'Henry Ford', 
+     'quote': 'Whether you think you can or you think you cant, you are right.',
+     'year': '1947'
     },
 ];
 
