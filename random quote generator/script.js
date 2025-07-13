@@ -1,8 +1,8 @@
 //Use an array to hold the value of the quotes
 const arrayOfQuotes = [
-    {'author': 'Nelson Mandela', 
-     'quote': 'It always seems impossible until it is done',
-     'year': '1994'
+    {'author': 'Steve Jobs', 
+     'quote': 'Dont let the noise of others opinions drown out your own inner voice',
+     'year': '2005'
 
     },
     {'author': 'Wayne Gretzky', 
@@ -13,9 +13,9 @@ const arrayOfQuotes = [
      'quote': 'Dont watch the clock; do what it does, Keep going',
      'year': '1956'
     },
-    {'author': 'Albert Einstein', 
-     'quote': 'Strive not to be a success, but rather to be of value.',
-     'year': '1931'
+    {'author': 'C.S Lewis', 
+     'quote': 'Hardships often prepare ordinary people for extraordinary destiny',
+     'year': '1950'
     },
     {'author': 'Steve Jobs', 
      'quote': 'Your time is limited, so do not waste it living someone else’s life.',
